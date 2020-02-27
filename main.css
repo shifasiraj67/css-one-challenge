@@ -1,0 +1,28 @@
+.foot
+{
+    margin-top: 30px;
+}
+.fa-facebook
+{
+    width: 50px;
+}
+.fa-twitter
+{
+    width: 50px;
+}
+.fa-instagram
+{
+    width: 50px;
+}
+.mail{
+    height: 30px;
+    width: 30vh;
+    border-radius: 15px;
+}
+.me
+{
+    height: 30px;
+    width: 30vh;
+    border-radius: 15px;
+    background-color: blue;
+}
